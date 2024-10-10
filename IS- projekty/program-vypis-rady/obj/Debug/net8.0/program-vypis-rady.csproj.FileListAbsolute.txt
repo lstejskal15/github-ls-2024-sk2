@@ -1,0 +1,15 @@
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program-vypis-rady\bin\Debug\net8.0\program-vypis-rady.exe
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program-vypis-rady\bin\Debug\net8.0\program-vypis-rady.deps.json
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program-vypis-rady\bin\Debug\net8.0\program-vypis-rady.runtimeconfig.json
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program-vypis-rady\bin\Debug\net8.0\program-vypis-rady.dll
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program-vypis-rady\bin\Debug\net8.0\program-vypis-rady.pdb
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program-vypis-rady\obj\Debug\net8.0\program-vypis-rady.GeneratedMSBuildEditorConfig.editorconfig
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program-vypis-rady\obj\Debug\net8.0\program-vypis-rady.AssemblyInfoInputs.cache
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program-vypis-rady\obj\Debug\net8.0\program-vypis-rady.AssemblyInfo.cs
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program-vypis-rady\obj\Debug\net8.0\program-vypis-rady.csproj.CoreCompileInputs.cache
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program-vypis-rady\obj\Debug\net8.0\program-vypis-rady.sourcelink.json
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program-vypis-rady\obj\Debug\net8.0\program-vypis-rady.dll
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program-vypis-rady\obj\Debug\net8.0\refint\program-vypis-rady.dll
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program-vypis-rady\obj\Debug\net8.0\program-vypis-rady.pdb
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program-vypis-rady\obj\Debug\net8.0\program-vypis-rady.genruntimeconfig.cache
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program-vypis-rady\obj\Debug\net8.0\ref\program-vypis-rady.dll
