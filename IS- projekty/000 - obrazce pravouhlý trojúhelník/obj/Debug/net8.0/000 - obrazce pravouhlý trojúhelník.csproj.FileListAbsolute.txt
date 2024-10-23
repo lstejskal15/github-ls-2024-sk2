@@ -3,3 +3,13 @@ C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\000 - obrazce p
 C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\000 - obrazce pravouhlý trojúhelník\obj\Debug\net8.0\000 - obrazce pravouhlý trojúhelník.AssemblyInfo.cs
 C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\000 - obrazce pravouhlý trojúhelník\obj\Debug\net8.0\000 - obrazce pravouhlý trojúhelník.csproj.CoreCompileInputs.cache
 C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\000 - obrazce pravouhlý trojúhelník\obj\Debug\net8.0\000 - obrazce pravouhlý trojúhelník.sourcelink.json
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\000 - obrazce pravouhlý trojúhelník\bin\Debug\net8.0\000 - obrazce pravouhlý trojúhelník.exe
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\000 - obrazce pravouhlý trojúhelník\bin\Debug\net8.0\000 - obrazce pravouhlý trojúhelník.deps.json
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\000 - obrazce pravouhlý trojúhelník\bin\Debug\net8.0\000 - obrazce pravouhlý trojúhelník.runtimeconfig.json
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\000 - obrazce pravouhlý trojúhelník\bin\Debug\net8.0\000 - obrazce pravouhlý trojúhelník.dll
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\000 - obrazce pravouhlý trojúhelník\bin\Debug\net8.0\000 - obrazce pravouhlý trojúhelník.pdb
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\000 - obrazce pravouhlý trojúhelník\obj\Debug\net8.0\000 - obrazce pravouhlý trojúhelník.dll
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\000 - obrazce pravouhlý trojúhelník\obj\Debug\net8.0\refint\000 - obrazce pravouhlý trojúhelník.dll
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\000 - obrazce pravouhlý trojúhelník\obj\Debug\net8.0\000 - obrazce pravouhlý trojúhelník.pdb
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\000 - obrazce pravouhlý trojúhelník\obj\Debug\net8.0\000 - obrazce pravouhlý trojúhelník.genruntimeconfig.cache
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\000 - obrazce pravouhlý trojúhelník\obj\Debug\net8.0\ref\000 - obrazce pravouhlý trojúhelník.dll
