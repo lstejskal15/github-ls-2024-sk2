@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Informace a systémy\\git test\\github-ls-2024-sk2\\IS- projekty\\program 000\\program 000.csproj": {}
+    "C:\\Informace a systémy\\git test\\github-ls-2024-sk2\\IS- projekty\\002 - soucet cifer DU\\002 - soucet cifer DU.csproj": {}
   },
   "projects": {
-    "C:\\Informace a systémy\\git test\\github-ls-2024-sk2\\IS- projekty\\program 000\\program 000.csproj": {
+    "C:\\Informace a systémy\\git test\\github-ls-2024-sk2\\IS- projekty\\002 - soucet cifer DU\\002 - soucet cifer DU.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Informace a systémy\\git test\\github-ls-2024-sk2\\IS- projekty\\program 000\\program 000.csproj",
-        "projectName": "program 000",
-        "projectPath": "C:\\Informace a systémy\\git test\\github-ls-2024-sk2\\IS- projekty\\program 000\\program 000.csproj",
+        "projectUniqueName": "C:\\Informace a systémy\\git test\\github-ls-2024-sk2\\IS- projekty\\002 - soucet cifer DU\\002 - soucet cifer DU.csproj",
+        "projectName": "002 - soucet cifer DU",
+        "projectPath": "C:\\Informace a systémy\\git test\\github-ls-2024-sk2\\IS- projekty\\002 - soucet cifer DU\\002 - soucet cifer DU.csproj",
         "packagesPath": "C:\\Users\\stejs\\.nuget\\packages\\",
-        "outputPath": "C:\\Informace a systémy\\git test\\github-ls-2024-sk2\\IS- projekty\\program 000\\obj\\",
+        "outputPath": "C:\\Informace a systémy\\git test\\github-ls-2024-sk2\\IS- projekty\\002 - soucet cifer DU\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\stejs\\AppData\\Roaming\\NuGet\\NuGet.Config"

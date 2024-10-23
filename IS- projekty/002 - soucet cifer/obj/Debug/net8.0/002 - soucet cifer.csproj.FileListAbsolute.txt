@@ -1,0 +1,5 @@
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\002 - soucet cifer\obj\Debug\net8.0\002 - soucet cifer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\002 - soucet cifer\obj\Debug\net8.0\002 - soucet cifer.AssemblyInfoInputs.cache
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\002 - soucet cifer\obj\Debug\net8.0\002 - soucet cifer.AssemblyInfo.cs
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\002 - soucet cifer\obj\Debug\net8.0\002 - soucet cifer.csproj.CoreCompileInputs.cache
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\002 - soucet cifer\obj\Debug\net8.0\002 - soucet cifer.sourcelink.json

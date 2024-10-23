@@ -1,0 +1,5 @@
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\000 - obrazce pravouhlý trojúhelník\obj\Debug\net8.0\000 - obrazce pravouhlý trojúhelník.GeneratedMSBuildEditorConfig.editorconfig
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\000 - obrazce pravouhlý trojúhelník\obj\Debug\net8.0\000 - obrazce pravouhlý trojúhelník.AssemblyInfoInputs.cache
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\000 - obrazce pravouhlý trojúhelník\obj\Debug\net8.0\000 - obrazce pravouhlý trojúhelník.AssemblyInfo.cs
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\000 - obrazce pravouhlý trojúhelník\obj\Debug\net8.0\000 - obrazce pravouhlý trojúhelník.csproj.CoreCompileInputs.cache
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\000 - obrazce pravouhlý trojúhelník\obj\Debug\net8.0\000 - obrazce pravouhlý trojúhelník.sourcelink.json
