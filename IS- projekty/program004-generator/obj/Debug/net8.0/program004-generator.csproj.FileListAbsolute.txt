@@ -1,0 +1,15 @@
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program004-generator\obj\Debug\net8.0\program004-generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program004-generator\obj\Debug\net8.0\program004-generator.AssemblyInfoInputs.cache
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program004-generator\obj\Debug\net8.0\program004-generator.AssemblyInfo.cs
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program004-generator\obj\Debug\net8.0\program004-generator.csproj.CoreCompileInputs.cache
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program004-generator\obj\Debug\net8.0\program004-generator.sourcelink.json
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program004-generator\bin\Debug\net8.0\program004-generator.exe
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program004-generator\bin\Debug\net8.0\program004-generator.deps.json
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program004-generator\bin\Debug\net8.0\program004-generator.runtimeconfig.json
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program004-generator\bin\Debug\net8.0\program004-generator.dll
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program004-generator\bin\Debug\net8.0\program004-generator.pdb
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program004-generator\obj\Debug\net8.0\program004-generator.dll
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program004-generator\obj\Debug\net8.0\refint\program004-generator.dll
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program004-generator\obj\Debug\net8.0\program004-generator.pdb
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program004-generator\obj\Debug\net8.0\program004-generator.genruntimeconfig.cache
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program004-generator\obj\Debug\net8.0\ref\program004-generator.dll

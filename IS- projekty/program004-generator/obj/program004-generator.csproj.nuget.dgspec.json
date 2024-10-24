@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Informace a systémy\\git test\\github-ls-2024-sk2\\IS- projekty\\000 - obrazce\\program 000.csproj": {}
+    "C:\\Informace a systémy\\git test\\github-ls-2024-sk2\\IS- projekty\\program004-generator\\program004-generator.csproj": {}
   },
   "projects": {
-    "C:\\Informace a systémy\\git test\\github-ls-2024-sk2\\IS- projekty\\000 - obrazce\\program 000.csproj": {
+    "C:\\Informace a systémy\\git test\\github-ls-2024-sk2\\IS- projekty\\program004-generator\\program004-generator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Informace a systémy\\git test\\github-ls-2024-sk2\\IS- projekty\\000 - obrazce\\program 000.csproj",
-        "projectName": "program 000",
-        "projectPath": "C:\\Informace a systémy\\git test\\github-ls-2024-sk2\\IS- projekty\\000 - obrazce\\program 000.csproj",
+        "projectUniqueName": "C:\\Informace a systémy\\git test\\github-ls-2024-sk2\\IS- projekty\\program004-generator\\program004-generator.csproj",
+        "projectName": "program004-generator",
+        "projectPath": "C:\\Informace a systémy\\git test\\github-ls-2024-sk2\\IS- projekty\\program004-generator\\program004-generator.csproj",
         "packagesPath": "C:\\Users\\stejs\\.nuget\\packages\\",
-        "outputPath": "C:\\Informace a systémy\\git test\\github-ls-2024-sk2\\IS- projekty\\000 - obrazce\\obj\\",
+        "outputPath": "C:\\Informace a systémy\\git test\\github-ls-2024-sk2\\IS- projekty\\program004-generator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\stejs\\AppData\\Roaming\\NuGet\\NuGet.Config"

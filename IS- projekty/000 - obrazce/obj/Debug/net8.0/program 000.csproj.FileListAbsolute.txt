@@ -8,3 +8,8 @@ C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program 000 - o
 C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program 000 - obrazce\obj\Debug\net8.0\program 000.AssemblyInfo.cs
 C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program 000 - obrazce\obj\Debug\net8.0\program 000.csproj.CoreCompileInputs.cache
 C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program 000 - obrazce\obj\Debug\net8.0\program 000.sourcelink.json
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\000 - obrazce\obj\Debug\net8.0\program 000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\000 - obrazce\obj\Debug\net8.0\program 000.AssemblyInfoInputs.cache
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\000 - obrazce\obj\Debug\net8.0\program 000.AssemblyInfo.cs
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\000 - obrazce\obj\Debug\net8.0\program 000.csproj.CoreCompileInputs.cache
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\000 - obrazce\obj\Debug\net8.0\program 000.sourcelink.json
