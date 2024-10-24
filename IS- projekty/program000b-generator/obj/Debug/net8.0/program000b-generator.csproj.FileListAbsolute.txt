@@ -1,0 +1,15 @@
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program000b-generator\bin\Debug\net8.0\program000b-generator.exe
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program000b-generator\bin\Debug\net8.0\program000b-generator.deps.json
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program000b-generator\bin\Debug\net8.0\program000b-generator.runtimeconfig.json
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program000b-generator\bin\Debug\net8.0\program000b-generator.dll
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program000b-generator\bin\Debug\net8.0\program000b-generator.pdb
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program000b-generator\obj\Debug\net8.0\program000b-generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program000b-generator\obj\Debug\net8.0\program000b-generator.AssemblyInfoInputs.cache
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program000b-generator\obj\Debug\net8.0\program000b-generator.AssemblyInfo.cs
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program000b-generator\obj\Debug\net8.0\program000b-generator.csproj.CoreCompileInputs.cache
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program000b-generator\obj\Debug\net8.0\program000b-generator.sourcelink.json
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program000b-generator\obj\Debug\net8.0\program000b-generator.dll
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program000b-generator\obj\Debug\net8.0\refint\program000b-generator.dll
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program000b-generator\obj\Debug\net8.0\program000b-generator.pdb
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program000b-generator\obj\Debug\net8.0\program000b-generator.genruntimeconfig.cache
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program000b-generator\obj\Debug\net8.0\ref\program000b-generator.dll
