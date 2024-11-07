@@ -8,12 +8,12 @@ class Program {
         string again = "a";
         while(again == "a") {
                 Console.Clear();
-                Console.WriteLine("********************");
-                Console.WriteLine("*********Výpis řady***********");
-                Console.WriteLine("********************");
-                Console.WriteLine("**********Lucie Stejskalová**********");
-                Console.WriteLine("********************");
-                Console.WriteLine("*****************\n\n");
+                Console.WriteLine("******************************");
+                Console.WriteLine("**********Výpis řady**********");
+                Console.WriteLine("******************************");
+                Console.WriteLine("******Lucie Stejskalová*******");
+                Console.WriteLine("******************************");
+                Console.WriteLine("**************************\n\n");
                 Console.WriteLine();
 
 
