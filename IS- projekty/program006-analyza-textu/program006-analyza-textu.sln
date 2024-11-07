@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "program006-analyza-textu", "program006-analyza-textu.csproj", "{7447246B-1F8E-4A3B-9743-0FDCCE0822B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7447246B-1F8E-4A3B-9743-0FDCCE0822B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7447246B-1F8E-4A3B-9743-0FDCCE0822B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7447246B-1F8E-4A3B-9743-0FDCCE0822B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7447246B-1F8E-4A3B-9743-0FDCCE0822B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84973CA4-AAE2-491F-877A-E062517FC536}
+	EndGlobalSection
+EndGlobal
