@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("program006-analyza-textu")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02dc82515af3ddeb2d2507224d806edd186ed458")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ab781f2c40a5a277f7fb63496062c86417066c0")]
 [assembly: System.Reflection.AssemblyProductAttribute("program006-analyza-textu")]
 [assembly: System.Reflection.AssemblyTitleAttribute("program006-analyza-textu")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
