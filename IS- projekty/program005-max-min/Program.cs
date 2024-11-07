@@ -69,7 +69,7 @@ class Program {
             int posMin = 0;
             int countMax = 1;
             int countMin = 1;
-
+            
 
 
             for(int i = 1;i < n;i++){
@@ -93,13 +93,38 @@ class Program {
             
             }
 
+            int[] poziceMax = new int[countMax];
+            int[] poziceMin = new int[countMin];
+            int index = 0;
+
+             for(int i = 1;i < n;i++){
+                if (myArray[i] == max){
+                    poziceMax[index] = i; index++;
+                }
+            
+            }
+            
+            index = 0;
+
+            for(int i = 1;i < n;i++){
+                if (myArray[i] == min){
+                    poziceMin[index] = i; index++;
+                }
+            
+            }
 
             Console.WriteLine("Maximum je: {0}", max);
-            Console.WriteLine("pozice maxima je: {0}", posMax);
-            Console.WriteLine("Počet maxim je: {0}", countMax);
+            Console.Write("pozice maxim je: ");
+            foreach(int i in poziceMax){
+                Console.Write(i+" ");
+            }
+            Console.WriteLine("\nPočet maxim je: {0}", countMax);
             Console.WriteLine("Minimum je: {0}" , min);
-            Console.WriteLine("Pozice minima je: {0}" , posMin);
-            Console.WriteLine("Počet minim je: {0}", countMin);
+            Console.Write("pozice minim je: ");
+            foreach(int i in poziceMin){
+                Console.Write(i+" ");
+            }
+            Console.WriteLine("\nPočet minim je: {0}", countMin);
 
 
  
