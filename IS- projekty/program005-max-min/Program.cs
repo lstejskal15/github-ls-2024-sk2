@@ -13,8 +13,8 @@ class Program {
             Console.WriteLine("***********************************************");
             Console.WriteLine("*********Generátor pseudováhodných čísel*******");
             Console.WriteLine("***********************************************");
-            Console.WriteLine("*****************Lucie Stejskalová ***************");
-            Console.WriteLine("************************************************\n\n");    
+            Console.WriteLine("**************Lucie Stejskalová ***************");
+            Console.WriteLine("*******************************************\n\n");    
             Console.WriteLine();    
            
             Console.Write("Zadejte počet generovaných čísel (celé číslo): ");
@@ -58,7 +58,7 @@ class Program {
 
             Console.WriteLine("Náhodná čísla: ");
             for(int i = 0; i < n;i++){
-                myArray[i] = randomNumber.Next(dm, hm);
+                myArray[i] = randomNumber.Next(dm, hm + 1);
                 Console.WriteLine("{0}", myArray[i]);
 
             }
@@ -67,8 +67,8 @@ class Program {
             int min = myArray[0];
             int posMax = 0;
             int posMin = 0;
-            int countMax
-            int countMin
+            int countMax = 1;
+            int countMin = 1;
 
 
 
@@ -76,10 +76,19 @@ class Program {
                 if(myArray[i]>max){
                     max = myArray[i];
                     posMax = i;
+                    countMax = 1;
                 }
-                if(myArray[i]>min){
+                else if (myArray [i] == max){
+                    countMax++;
+                }
+                if(myArray[i]<min){
                     min = myArray[i];
                     posMin = i;
+                    countMin = 1;
+                }
+                 else if (myArray [i] == min){
+                    countMin++;
+                
                 }
             
             }
@@ -87,8 +96,10 @@ class Program {
 
             Console.WriteLine("Maximum je: {0}", max);
             Console.WriteLine("pozice maxima je: {0}", posMax);
+            Console.WriteLine("Počet maxim je: {0}", countMax);
             Console.WriteLine("Minimum je: {0}" , min);
             Console.WriteLine("Pozice minima je: {0}" , posMin);
+            Console.WriteLine("Počet minim je: {0}", countMin);
 
 
  
