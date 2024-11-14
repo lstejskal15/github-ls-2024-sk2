@@ -1,0 +1,15 @@
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program009-array-reversing\bin\Debug\net8.0\program009-array-reversing.exe
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program009-array-reversing\bin\Debug\net8.0\program009-array-reversing.deps.json
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program009-array-reversing\bin\Debug\net8.0\program009-array-reversing.runtimeconfig.json
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program009-array-reversing\bin\Debug\net8.0\program009-array-reversing.dll
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program009-array-reversing\bin\Debug\net8.0\program009-array-reversing.pdb
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program009-array-reversing\obj\Debug\net8.0\program009-array-reversing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program009-array-reversing\obj\Debug\net8.0\program009-array-reversing.AssemblyInfoInputs.cache
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program009-array-reversing\obj\Debug\net8.0\program009-array-reversing.AssemblyInfo.cs
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program009-array-reversing\obj\Debug\net8.0\program009-array-reversing.csproj.CoreCompileInputs.cache
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program009-array-reversing\obj\Debug\net8.0\program009-array-reversing.sourcelink.json
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program009-array-reversing\obj\Debug\net8.0\program009-array-reversing.dll
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program009-array-reversing\obj\Debug\net8.0\refint\program009-array-reversing.dll
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program009-array-reversing\obj\Debug\net8.0\program009-array-reversing.pdb
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program009-array-reversing\obj\Debug\net8.0\program009-array-reversing.genruntimeconfig.cache
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program009-array-reversing\obj\Debug\net8.0\ref\program009-array-reversing.dll

@@ -1,0 +1,15 @@
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program007-bubble-sort\bin\Debug\net8.0\program007-bubble-sort.exe
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program007-bubble-sort\bin\Debug\net8.0\program007-bubble-sort.deps.json
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program007-bubble-sort\bin\Debug\net8.0\program007-bubble-sort.runtimeconfig.json
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program007-bubble-sort\bin\Debug\net8.0\program007-bubble-sort.dll
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program007-bubble-sort\bin\Debug\net8.0\program007-bubble-sort.pdb
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program007-bubble-sort\obj\Debug\net8.0\program007-bubble-sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program007-bubble-sort\obj\Debug\net8.0\program007-bubble-sort.AssemblyInfoInputs.cache
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program007-bubble-sort\obj\Debug\net8.0\program007-bubble-sort.AssemblyInfo.cs
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program007-bubble-sort\obj\Debug\net8.0\program007-bubble-sort.csproj.CoreCompileInputs.cache
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program007-bubble-sort\obj\Debug\net8.0\program007-bubble-sort.sourcelink.json
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program007-bubble-sort\obj\Debug\net8.0\program007-bubble-sort.dll
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program007-bubble-sort\obj\Debug\net8.0\refint\program007-bubble-sort.dll
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program007-bubble-sort\obj\Debug\net8.0\program007-bubble-sort.pdb
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program007-bubble-sort\obj\Debug\net8.0\program007-bubble-sort.genruntimeconfig.cache
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program007-bubble-sort\obj\Debug\net8.0\ref\program007-bubble-sort.dll
