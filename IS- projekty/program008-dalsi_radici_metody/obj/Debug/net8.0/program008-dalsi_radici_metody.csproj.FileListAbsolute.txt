@@ -1,0 +1,15 @@
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program008-dalsi_radici_metody\bin\Debug\net8.0\program008-dalsi_radici_metody.exe
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program008-dalsi_radici_metody\bin\Debug\net8.0\program008-dalsi_radici_metody.deps.json
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program008-dalsi_radici_metody\bin\Debug\net8.0\program008-dalsi_radici_metody.runtimeconfig.json
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program008-dalsi_radici_metody\bin\Debug\net8.0\program008-dalsi_radici_metody.dll
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program008-dalsi_radici_metody\bin\Debug\net8.0\program008-dalsi_radici_metody.pdb
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program008-dalsi_radici_metody\obj\Debug\net8.0\program008-dalsi_radici_metody.GeneratedMSBuildEditorConfig.editorconfig
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program008-dalsi_radici_metody\obj\Debug\net8.0\program008-dalsi_radici_metody.AssemblyInfoInputs.cache
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program008-dalsi_radici_metody\obj\Debug\net8.0\program008-dalsi_radici_metody.AssemblyInfo.cs
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program008-dalsi_radici_metody\obj\Debug\net8.0\program008-dalsi_radici_metody.csproj.CoreCompileInputs.cache
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program008-dalsi_radici_metody\obj\Debug\net8.0\program008-dalsi_radici_metody.sourcelink.json
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program008-dalsi_radici_metody\obj\Debug\net8.0\program008-dalsi_radici_metody.dll
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program008-dalsi_radici_metody\obj\Debug\net8.0\refint\program008-dalsi_radici_metody.dll
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program008-dalsi_radici_metody\obj\Debug\net8.0\program008-dalsi_radici_metody.pdb
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program008-dalsi_radici_metody\obj\Debug\net8.0\program008-dalsi_radici_metody.genruntimeconfig.cache
+C:\Informace a systémy\git test\github-ls-2024-sk2\IS- projekty\program008-dalsi_radici_metody\obj\Debug\net8.0\ref\program008-dalsi_radici_metody.dll
